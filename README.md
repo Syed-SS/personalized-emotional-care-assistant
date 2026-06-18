@@ -1,40 +1,22 @@
-# Personalized Emotional Care Assistant
+## Project Screenshots
 
-## Overview
-An AI-powered emotional care platform that detects emotions through text, voice, and facial expressions while providing context-aware wellness support.
+### Login Page
+![Login Page](screenshots/login-page.jpg)
 
-## Features
-- Text Sentiment Analysis
-- Voice Emotion Recognition
-- Facial Emotion Detection
-- Context-Aware Wellness Recommendations
-- Wellness Dashboard
-- Real-time Emotion Monitoring
+### Dashboard
+![Dashboard](screenshots/dashboard.jpg)
 
-## Tech Stack
-- Python
-- FastAPI
-- React
-- TensorFlow
-- Transformers
-- PyTorch
+### Face Detection
+![Face Detection](screenshots/face-detection.jpg)
 
-## Project Architecture
+### Emotion Logs
+![Emotion Logs](screenshots/Emotion-logs.jpg)
 
-Frontend (React)
-↓
-FastAPI Backend
-↓
-AI Models
-├─ Text Emotion Model
-├─ Voice Emotion Model
-└─ Facial Emotion Model
+### AI Chatbot
+![AI Chatbot](screenshots/chatbot.jpeg)
 
-## Screenshots
+### Wellness Recommendations
+![Recommendations](screenshots/recommendation.jpeg)
 
-(Add screenshots here)
-
-## Author
-
-Syed Shahed
-AI Engineer | Data Analyst
+### Analytics Graphs
+![Graphs](screenshots/Graph.jpeg)
